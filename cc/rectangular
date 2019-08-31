@@ -1,0 +1,6 @@
+//area of rectangular
+#include<stdio.h>
+int main()
+{
+int l,b;
+
